@@ -120,7 +120,8 @@ The dashboard enables HR managers to identify workforce trends and areas requiri
 
 📸 Dashboard Preview 
 
- 
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/16a854d8-881a-4d16-a6bb-2b1e71b3a285" />
+
 
  
 
